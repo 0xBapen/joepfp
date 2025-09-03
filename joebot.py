@@ -22,7 +22,7 @@ logger = logging.getLogger(__name__)
 
 # Configuration
 TELEGRAM_TOKEN = "8365461595:AAFDGUdxh3chfhx__wfXpzwOD3RLnfGJXb0"
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "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"
 openai.api_key = OPENAI_API_KEY
 REFERENCE_IMAGE_PATH = "joe_reference.png"
 OUTPUT_DIR = "outputs"
